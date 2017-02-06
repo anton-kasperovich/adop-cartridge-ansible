@@ -1,0 +1,2 @@
+https://github.com/Accenture/adop-cartridge-ansible-reference-role.git
+https://github.com/Accenture/adop-cartridge-ansible-demo-scenario-playbook.git
